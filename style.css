@@ -1,0 +1,27 @@
+/* Styles for the Sales Summary App */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+  margin-bottom: 2rem;
+}
+
+#total-sales {
+  transition: all 0.3s ease;
+}
+
+.loading {
+  color: #6c757d;
+}
+
+.error {
+  color: #dc3545;
+}
+
+.success {
+  color: #0d6efd;
+}
